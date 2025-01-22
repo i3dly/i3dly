@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img alt="👋" src="./static/gifs/hi-wave.gif" width="30">, I'm David Lee</h1>
-
-I'm working on things I'd like to have. Nowadays, that's self-hosted, typesafe realtime with [@pluv/io](https://github.com/pluv-io/pluv).
+<img alt="👋" src="./static/gifs/hi-wave.gif" width="30"> 안녕! I'm working on things I'd like to have. Nowadays, that's self-hosted, typesafe realtime with [@pluv/io](https://github.com/pluv-io/pluv).
 
 <p align="center">
   <kbd height="196" width="196">
