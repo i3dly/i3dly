@@ -2,11 +2,11 @@
 
 <p align="center">
   <kbd height="216" width="216">
-    <img alt="leedavidcs" src="./static/gifs/Miniteller-David.gif" height="196" width="196" />
+    <img alt="pluvrt" src="./static/gifs/Miniteller-David.gif" height="196" width="196" />
   </kbd>
   <kbd height="216">
     <a href="https://github.com/ryo-ma/github-profile-trophy" height="216">
-      <img alt="stats" src="https://github-profile-trophy.vercel.app/?username=leedavidcs&theme=onedark&title=Reviews,Commits,PullRequest,Repositories,Followers,Stars,Experience,Organizations&row=2&column=4" height="196" width="396" />
+      <img alt="stats" src="https://github-profile-trophy.vercel.app/?username=pluvrt&theme=onedark&title=Reviews,Commits,PullRequest,Repositories,Followers,Stars,Experience,Organizations&row=2&column=4" height="196" width="396" />
     </a>
   </kbd>
 </p>
